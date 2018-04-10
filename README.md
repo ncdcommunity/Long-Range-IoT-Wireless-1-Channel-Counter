@@ -11,6 +11,8 @@ https://ncd.io/long-range-iot-wireless-one-channel-counter-with-reset-getting-st
 
 Labview Driver for ncd.io Long Range IoT Wireless One Channel Counter with Reset Transmitter
 
+To use this Labview Utility You will need a Wireless to USB router, whihc can be found over here https://store.ncd.io/product/900hp-s3b-long-range-wireless-mesh-modem-with-usb-interface/
+
 this Labview software will work with ncd.io wireless Thermocouple sesnor only
 
 To use this UI, you will need to install following drivers Install run time engine from here 64bit http://www.ni.com/download/labview-run-time-engine-2017/6821/en/
